@@ -1,0 +1,1821 @@
+fileFormatVersion: 2
+guid: 8a5b2d4f329c76c4aa8aaf59668e16b3
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Gunplay (5)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1548446721
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.29812372, y: 8.183578, z: 0.2609969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1761245482
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.5773308, y: 8.647781, z: -0.14722471}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1795490351
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.06637095, y: 8.261953, z: 0.07575985}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1949716560
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.07157997, y: 7.908084, z: -0.8852899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1548446721.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.18250856, y: 8.183578, z: 0.2609969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1761245482.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.44129217, y: 8.647781, z: -0.14722471}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1279638668
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.0368827, y: 6.9299383, z: -0.13927536}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 91.67139, y: 100, z: 100}
+    - name: mesh_1776263116
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.0007214919, y: 6.540827, z: -1.9077014}
+      rotation: {x: -0.7070996, y: -0.0031817628, z: 0.0031817623, w: 0.7070997}
+      scale: {x: 116.135155, y: 116.13515, z: 116.135155}
+    - name: mesh_1689801055
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.31930724, y: 6.232924, z: -1.5491221}
+      rotation: {x: -0.70694214, y: -0.015260592, z: 0.015260584, w: 0.706942}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_862093698
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.46430615, y: 6.2428794, z: -1.6036587}
+      rotation: {x: -0.70694214, y: -0.015260592, z: 0.015260584, w: 0.706942}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1612373555
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.032321747, y: 7.5957284, z: -0.12935016}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 257.62915}
+    - name: Cylinder
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.027518617, y: 6.1971326, z: -0.31375912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 103.98583, y: 100, z: 100}
+    - name: Cylinder.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.00028987974, y: 5.978305, z: 0.6507113}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.038148373, y: 5.936088, z: -0.10006504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.047129273, y: 6.7882743, z: -1.1999891}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.037365966, y: 6.898831, z: -0.7219279}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.043441787, y: 7.8342047, z: -0.13509783}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_33254972
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.27452934, y: 4.994529, z: -0.7738899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_70845517
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.8701884, y: 5.410371, z: -0.46200928}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_286197549
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.9129426, y: 5.368283, z: -0.45143017}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_365934780
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.3904711, y: 4.8192296, z: 0.60444164}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_568130306
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.3332298, y: 4.98598, z: -0.77451247}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1019842248
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.3472357, y: 4.8122644, z: 0.5980564}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1099418297
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.889275, y: 5.3797984, z: 0.2808972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1384682915
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.0051712464, y: 5.794065, z: 0.5365716}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576660463
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.93673337, y: 5.357534, z: 0.23696065}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1618969949
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.014474704, y: 4.880291, z: 0.6122192}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1653339372
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.005725011, y: 5.510041, z: 0.36256602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.8597392, y: 7.414423, z: -0.13102745}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.020
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6395493, y: 7.2768264, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.021
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.022
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6283383, y: 7.2450304, z: -0.39223638}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.023
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6085258, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.024
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.090373196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.020
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.0344114, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.021
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.1180615, y: 7.1385903, z: -0.22614224}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.022
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.023
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.024
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.541774, y: 7.170588, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.620352, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.194472, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.020
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.033243086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.021
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.9157853, y: 7.1834216, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.022
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.8959036, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.023
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.024
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.6984332, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.7183, y: 7.6448603, z: -0.2144608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.1380224, y: 7.2281156, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.0812933, y: 7.225107, z: -0.22935762}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.7945242, y: 7.2599583, z: -0.23458177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 2.2770483, y: 7.284147, z: -0.20633686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.025
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.026
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.5946383, y: 7.2527494, z: -0.22714667}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.027
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.028
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.564526, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.029
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.025
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.9642344, y: 7.1957498, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.026
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0633383, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.027
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.028
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0308433, y: 7.132323, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.029
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.4325485, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.5065582, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.0731845, y: 7.254757, z: -0.1398}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.025
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.774123, y: 7.2312384, z: -0.4338498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.026
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.027
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.8488083, y: 7.164667, z: -0.05391912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.028
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.812473, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.029
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.303306, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.5846388, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.6045055, y: 7.6448603, z: -0.22085969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.0242283, y: 7.2281156, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705037}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -2.9675002, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.6807299, y: 7.2599583, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -4.716556, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -2.1632545, y: 7.284147, z: -0.2289838}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.6392535, y: 7.412396, z: -0.17742197}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_92345194
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.6751727, y: 7.756316, z: -0.10366843}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_591274784
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.9340702, y: 7.2532053, z: -0.11035106}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1137901057
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.7558212, y: 7.677584, z: -0.077320054}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1465813181
+      parentName: Gunplay (5)(Clone)
+      position: {x: 2.130557, y: 7.7473755, z: -0.119728565}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1000039294
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.5468322, y: 6.999473, z: -0.23326938}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6395493, y: 7.2768264, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.006
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.007
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6283383, y: 7.2450304, z: -0.39223638}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.008
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6085258, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.009
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.090373196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.0344114, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.006
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.1180615, y: 7.1385903, z: -0.22614224}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.007
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.008
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.009
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.541774, y: 7.170588, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.620352, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.194472, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.033243086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.006
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.9157853, y: 7.1834216, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.007
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.8959036, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.008
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.009
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.6984332, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.7183, y: 7.6448603, z: -0.2144608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.1380224, y: 7.2281156, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.0812933, y: 7.225107, z: -0.22935762}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.7945242, y: 7.2599583, z: -0.23458177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_92345194.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.633234, y: 7.756316, z: -0.12734959}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_591274784.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.892132, y: 7.2525797, z: -0.1197876}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1000039294.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.5048939, y: 7.0013804, z: 0.008232143}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1137901057.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.7138822, y: 7.677584, z: -0.15369794}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1465813181.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -2.0886185, y: 7.7473764, z: -0.111289464}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.015
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.016
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.5946383, y: 7.2527494, z: -0.22714667}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.017
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.018
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.564526, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.019
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.015
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.9642344, y: 7.1957498, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.016
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0633383, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.017
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.018
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0308433, y: 7.132323, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.019
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.4325485, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.5065582, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.0731845, y: 7.254757, z: -0.1398}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.015
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.774123, y: 7.2312384, z: -0.4338498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.016
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.017
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.8488083, y: 7.164667, z: -0.05391912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.018
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.812473, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.019
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.303306, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.5846388, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.6045055, y: 7.6448603, z: -0.22085969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.0242283, y: 7.2281156, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705037}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -2.9675002, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.005
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.6807299, y: 7.2599583, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -4.716556, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.8158975, y: 7.261482, z: -0.25594035}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_127669984
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.6954243, y: 7.4311132, z: -0.82455593}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.9642344, y: 7.1957498, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_276917290
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.8770618, y: 6.7857323, z: -0.3607614}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_356270626
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.6925558, y: 7.4523754, z: 0.25900775}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.5065582, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.0731845, y: 7.254757, z: -0.1398}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.774123, y: 7.2312384, z: -0.4338498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_612439436
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.62577, y: 7.879238, z: -0.27797452}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.5846388, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.6045055, y: 7.6448603, z: -0.22085969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.0242283, y: 7.2281156, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581
+      parentName: Gunplay (5)(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705037}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769
+      parentName: Gunplay (5)(Clone)
+      position: {x: -2.9675002, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638
+      parentName: Gunplay (5)(Clone)
+      position: {x: -3.6807299, y: 7.2599583, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654
+      parentName: Gunplay (5)(Clone)
+      position: {x: -4.716556, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661
+      parentName: Gunplay (5)(Clone)
+      position: {x: -2.1632545, y: 7.284147, z: -0.2289838}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.5946383, y: 7.2527494, z: -0.22714667}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0633383, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.8488083, y: 7.164667, z: -0.05391912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.564526, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -6.0308433, y: 7.132323, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.003
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.812473, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.4325485, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.004
+      parentName: Gunplay (5)(Clone)
+      position: {x: -5.303306, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.010
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6395493, y: 7.2768264, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.011
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.012
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6283383, y: 7.2450304, z: -0.39223638}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.013
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.6085258, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.014
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.090373196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.9296919, y: 7.2608685, z: -0.15285844}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_127669984.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.8092191, y: 7.490913, z: 0.39411354}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.010
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.0344114, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.011
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.1180615, y: 7.1385903, z: -0.22614224}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.012
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.013
+      parentName: Gunplay (5)(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.014
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.541774, y: 7.170588, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_276917290.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.9908558, y: 6.7857323, z: -0.239759}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_356270626.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.8063498, y: 7.395034, z: -0.68540955}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.620352, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.194472, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.010
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.033243086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.011
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.9157853, y: 7.1834216, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.012
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.8959036, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.013
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.014
+      parentName: Gunplay (5)(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_612439436.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.7395638, y: 7.877392, z: -0.19766517}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.6984332, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.7183, y: 7.6448603, z: -0.2144608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.1380224, y: 7.2281156, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.0812933, y: 7.225107, z: -0.22935762}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 3.7945242, y: 7.2599583, z: -0.23458177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 2.2770483, y: 7.284147, z: -0.20633686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.002
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.021180345, y: 3.209841, z: -0.47454947}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_240515304
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.7618166, y: 3.8805306, z: -0.23536132}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_559372490
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.7566418, y: 3.9181273, z: -0.24768211}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_824821767
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.3949049, y: 0.7631565, z: 0.22413337}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_909876705
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.3361514, y: 0.778, z: 0.226129}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1094983144
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.3367404, y: 0.38718086, z: 0.27088973}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1457085191
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.3789479, y: 0.37177265, z: 0.26839632}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1711975188
+      parentName: Gunplay (5)(Clone)
+      position: {x: -1.1566331, y: 1.683298, z: -0.3377568}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1868040267
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.9748427, y: 2.8886318, z: -0.020774068}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1873824444
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.93835723, y: 3.1900737, z: -0.43471056}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_107659434
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.9919408, y: 2.8780196, z: -0.045234226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1339117828
+      parentName: Gunplay (5)(Clone)
+      position: {x: -0.9160531, y: 3.1795344, z: -0.46349502}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1711975188.001
+      parentName: Gunplay (5)(Clone)
+      position: {x: 1.1635674, y: 1.6406765, z: -0.32589164}
+      rotation: {x: -0.7069135, y: -0.051064167, z: 0.13749935, w: 0.69192475}
+      scale: {x: 100, y: 100.00001, z: 100}
+    - name: mixamorig:Hips
+      parentName: Gunplay (5)(Clone)
+      position: {x: 0.010537533, y: 5.481595, z: 0.026332337}
+      rotation: {x: 0.000000018626439, y: 7.7021717e-16, z: 0.000000005587936, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.49137756, z: 0.008975659}
+      rotation: {x: 0.009132034, y: -0.00000002988613, z: -0.0000000090406775, w: 0.99995834}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.5733689, z: 7.4554654e-11}
+      rotation: {x: 0.0000000027939675, y: 0.000000044696034, z: -8.164422e-10, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.6552795, z: 2.8038584e-11}
+      rotation: {x: -0.0000000037252903, y: -0.00000002966128, z: 0.000000007993634, w: 1}
+      scale: {x: 1.000003, y: 1.0000035, z: 1.0000015}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.7371884, z: -5.218686e-10}
+      rotation: {x: -0.009132026, y: 0.000000044667594, z: -0.0000000041333776, w: 0.99995834}
+      scale: {x: 0.9999998, y: 1, z: 1.0000001}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.22574462, z: 0.022341747}
+      rotation: {x: -0.000000009313225, y: -0.000000029802322, z: -4.656559e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999997}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.66184205, z: 0.06550193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.4272607, y: 0.5839657, z: 0.019346854}
+      rotation: {x: 0.58817977, y: 0.40182543, z: -0.56227475, w: 0.42003343}
+      scale: {x: 1.000003, y: 1.0000033, z: 1.0000019}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -0.000000001087511, y: 0.91134834, z: -0.0000000051467453}
+      rotation: {x: -0.14776708, y: 0.011269077, z: -0.04806786, w: 0.98778915}
+      scale: {x: 1.0000103, y: 1.0000147, z: 1.0000111}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -0.0000000026748557, y: 1.7315214, z: -0.0000000027114468}
+      rotation: {x: -0.0058566034, y: -0.00015759468, z: 0.02690351, w: 0.999621}
+      scale: {x: 1.0000095, y: 1.0000111, z: 1.0000103}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0.0000000012757019, y: 1.7493483, z: 0.0000000021649338}
+      rotation: {x: 0.027780676, y: 0.04685134, z: 0.07938112, w: -0.9953552}
+      scale: {x: 1.0000062, y: 1.0000116, z: 1.0000094}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -0.17248176, y: 0.63666797, z: -0.020001423}
+      rotation: {x: 0.04672868, y: 0.0061980784, z: 0.03792801, w: 0.9981681}
+      scale: {x: 1.0000039, y: 0.9999985, z: 1.000002}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: -0.0003621868, y: 0.29070687, z: 3.5217795e-10}
+      rotation: {x: 0.0383866, y: -0.00000010430813, z: -0, w: 0.99926305}
+      scale: {x: 1.000005, y: 1.0000074, z: 1.0000054}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: -0.0014710532, y: 0.27956557, z: 6.3298444e-10}
+      rotation: {x: -0.037390076, y: -0.00013580278, z: 0.0047633555, w: 0.99928945}
+      scale: {x: 1.0000021, y: 0.999999, z: 1.0000033}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: 0.0018332418, y: 0.21776189, z: -4.8434003e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle1
+      parentName: mixamorig:RightHand
+      position: {x: 0.00401256, y: 0.665889, z: -0.029158084}
+      rotation: {x: 0.040475585, y: 0.010693022, z: 0.044227757, w: 0.9981439}
+      scale: {x: 0.9999998, y: 1.0000026, z: 0.9999967}
+    - name: mixamorig:RightHandMiddle2
+      parentName: mixamorig:RightHandMiddle1
+      position: {x: -0.00026054392, y: 0.2885243, z: 0.0000000016413867}
+      rotation: {x: 0.018401489, y: -0.000000077299745, z: -0.00000006612388, w: 0.99983066}
+      scale: {x: 1.0000035, y: 1.0000043, z: 1.0000036}
+    - name: mixamorig:RightHandMiddle3
+      parentName: mixamorig:RightHandMiddle2
+      position: {x: -0.001153821, y: 0.3061021, z: 0.000000007759237}
+      rotation: {x: -0.04011559, y: -0.000029642692, z: 0.001983793, w: 0.99919313}
+      scale: {x: 1.0000001, y: 0.9999997, z: 0.9999996}
+    - name: mixamorig:RightHandMiddle4
+      parentName: mixamorig:RightHandMiddle3
+      position: {x: 0.0014143669, y: 0.23977838, z: -0.0000000020086646}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing1
+      parentName: mixamorig:RightHand
+      position: {x: 0.16846922, y: 0.6788661, z: -0.019298024}
+      rotation: {x: 0.047602333, y: 0.0059485, z: 0.039105188, w: 0.99808294}
+      scale: {x: 1.0000075, y: 1.0000055, z: 1.0000014}
+    - name: mixamorig:RightHandRing2
+      parentName: mixamorig:RightHandRing1
+      position: {x: 0.00087872683, y: 0.28721055, z: 5.37907e-10}
+      rotation: {x: 0.040644627, y: -0.000002239363, z: -0.00096514495, w: 0.9991732}
+      scale: {x: 1.0000046, y: 1.0000046, z: 1.0000037}
+    - name: mixamorig:RightHandRing3
+      parentName: mixamorig:RightHandRing2
+      position: {x: -0.0008877467, y: 0.26804325, z: 0.0000000047189848}
+      rotation: {x: -0.030685592, y: 0.000000015326657, z: 0.000000014940822, w: 0.9995291}
+      scale: {x: 1.0000007, y: 0.9999998, z: 1.0000011}
+    - name: mixamorig:RightHandRing4
+      parentName: mixamorig:RightHandRing3
+      position: {x: 0.000009023912, y: 0.21665478, z: 0.0000000015631804}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandThumb1
+      parentName: mixamorig:RightHand
+      position: {x: -0.18955694, y: 0.35783336, z: 0.006220675}
+      rotation: {x: -0.0028978235, y: 0.0010183597, z: -0.21735974, w: -0.9760867}
+      scale: {x: 1.000012, y: 0.9999997, z: 1.0000067}
+    - name: mixamorig:RightHandThumb2
+      parentName: mixamorig:RightHandThumb1
+      position: {x: -0.058417954, y: 0.31868035, z: -4.427079e-10}
+      rotation: {x: 0.011906024, y: -0.0014749353, z: 0.10825586, w: 0.9940507}
+      scale: {x: 1.0000017, y: 1.0000006, z: 1.0000037}
+    - name: mixamorig:RightHandThumb3
+      parentName: mixamorig:RightHandThumb2
+      position: {x: 0.035548568, y: 0.34145698, z: -0.0000000023070197}
+      rotation: {x: 0.038377587, y: 0.0059876884, z: -0.011173123, w: 0.999183}
+      scale: {x: 1.0000011, y: 1.0000008, z: 1.0000026}
+    - name: mixamorig:RightHandThumb4
+      parentName: mixamorig:RightHandThumb3
+      position: {x: 0.022869391, y: 0.3299382, z: -0.000000011222779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.4272607, y: 0.5833614, z: -0.013738191}
+      rotation: {x: 0.5663375, y: -0.41716668, z: 0.5848361, w: 0.40398088}
+      scale: {x: 1.0000029, y: 1.0000035, z: 1.0000014}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -0.0000000014885151, y: 0.9113482, z: -0.000000005976791}
+      rotation: {x: -0.14410533, y: 0.0031401813, z: -0.021558195, w: 0.9893226}
+      scale: {x: 1.0000197, y: 1.0000193, z: 1.0000271}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -3.042573e-10, y: 1.7265426, z: 0.0000000028779321}
+      rotation: {x: -0.0043563237, y: 0.00000963127, z: -0.0021973923, w: 0.9999881}
+      scale: {x: 1.000007, y: 1.000005, z: 1.0000018}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -2.2175636e-10, y: 1.7490807, z: -9.00834e-10}
+      rotation: {x: 0.030135356, y: 0.07020554, z: -0.052855797, w: -0.9956754}
+      scale: {x: 1.0000173, y: 1.0000111, z: 1.0000149}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.18323901, y: 0.6110985, z: -0.014570059}
+      rotation: {x: -0.056874923, y: 0.0012082009, z: 0.021204976, w: -0.99815536}
+      scale: {x: 0.9999996, y: 1.0000026, z: 0.9999998}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: -0.0002616427, y: 0.31845373, z: -0.000000002774617}
+      rotation: {x: 0.03994066, y: -0.000007817868, z: 0.0002696604, w: 0.9992021}
+      scale: {x: 1.0000017, y: 1.0000025, z: 1.0000017}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.00010477074, y: 0.29308304, z: -0.0000000035803112}
+      rotation: {x: 0.038587425, y: -0.00000013577909, z: -0.000000018139902, w: 0.99925524}
+      scale: {x: 1.0000012, y: 1.0000019, z: 1.0000012}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.00015687151, y: 0.251933, z: -0.0000000028003602}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.0057704286, y: 0.599125, z: -0.019743077}
+      rotation: {x: -0.06473765, y: 0.0015525287, z: 0.017251298, w: -0.997752}
+      scale: {x: 1.0000026, y: 1.0000045, z: 1.000004}
+    - name: mixamorig:LeftHandMiddle2
+      parentName: mixamorig:LeftHandMiddle1
+      position: {x: 0.0000100061525, y: 0.3097314, z: -0.00000000545784}
+      rotation: {x: 0.0131840855, y: 0.000000014901161, z: -0.000000059604645, w: 0.9999131}
+      scale: {x: 1.0000013, y: 1.0000012, z: 1.0000002}
+    - name: mixamorig:LeftHandMiddle3
+      parentName: mixamorig:LeftHandMiddle2
+      position: {x: 0.000101267826, y: 0.29275107, z: -9.510677e-10}
+      rotation: {x: -0.04134516, y: 0.00000026333697, z: -0.000036963098, w: 0.9991449}
+      scale: {x: 1.0000037, y: 1.0000066, z: 1.0000035}
+    - name: mixamorig:LeftHandMiddle4
+      parentName: mixamorig:LeftHandMiddle3
+      position: {x: -0.00011127287, y: 0.23898816, z: -0.000000001577439}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandRing1
+      parentName: mixamorig:LeftHand
+      position: {x: -0.18900946, y: 0.6351884, z: -0.025396017}
+      rotation: {x: -0.06377074, y: 0.0012497897, z: 0.009640499, w: -0.99791723}
+      scale: {x: 1.000002, y: 1.0000045, z: 1.0000026}
+    - name: mixamorig:LeftHandRing2
+      parentName: mixamorig:LeftHandRing1
+      position: {x: 0.000058583766, y: 0.2681566, z: 0.0000000018408377}
+      rotation: {x: -0.023554653, y: -0, z: -0.00000008940697, w: 0.9997226}
+      scale: {x: 1.0000037, y: 1.0000055, z: 1.0000037}
+    - name: mixamorig:LeftHandRing3
+      parentName: mixamorig:LeftHandRing2
+      position: {x: -0.0000012369238, y: 0.24597444, z: 0.0000000012566886}
+      rotation: {x: -0.027497888, y: 0.000000044703484, z: 0.00000011920929, w: 0.99962187}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000017}
+    - name: mixamorig:LeftHandRing4
+      parentName: mixamorig:LeftHandRing3
+      position: {x: -0.000057341167, y: 0.2082554, z: -0.0000000016103422}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.17341134, y: 0.3420207, z: -0.01363031}
+      rotation: {x: 0.042400364, y: -0.009452248, z: 0.20212683, w: -0.9783954}
+      scale: {x: 1.0000042, y: 1.000005, z: 1.0000087}
+    - name: mixamorig:LeftHandThumb2
+      parentName: mixamorig:LeftHandThumb1
+      position: {x: 0.07031784, y: 0.29880816, z: 0.0000000014107797}
+      rotation: {x: 0.019456627, y: 0.006066524, z: -0.09545151, w: 0.9952255}
+      scale: {x: 1.0000046, y: 1.0000057, z: 1.000004}
+    - name: mixamorig:LeftHandThumb3
+      parentName: mixamorig:LeftHandThumb2
+      position: {x: -0.008818911, y: 0.39917406, z: 0.0000000034517973}
+      rotation: {x: 0.030334536, y: -0.005211715, z: -0.045529276, w: 0.9984887}
+      scale: {x: 0.99999577, y: 1.0000031, z: 0.9999992}
+    - name: mixamorig:LeftHandThumb4
+      parentName: mixamorig:LeftHandThumb3
+      position: {x: -0.061498936, y: 0.3791553, z: -0.000000012473663}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.6552078, y: -0.27332488, z: -0.0395092}
+      rotation: {x: 0.00088943983, y: -0.011389502, z: 0.99689955, w: 0.07785112}
+      scale: {x: 0.9999981, y: 0.9999981, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 0.000000010853256, y: 2.1612546, z: -0.0000000021842967}
+      rotation: {x: 0.0028007564, y: 0.000051024253, z: 0.018212125, w: 0.9998303}
+      scale: {x: 1.0000032, y: 1.0000039, z: 1.0000001}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: 0.000000004300017, y: 2.163744, z: 0.0000000015662837}
+      rotation: {x: 0.42580277, y: 0.06943628, z: -0.03279479, w: 0.9015515}
+      scale: {x: 0.9999991, y: 0.9999986, z: 0.9999996}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: 0.0000000022306026, y: 1.2297274, z: 0.0000000021463016}
+      rotation: {x: 0.3307893, y: 0.14602989, z: -0.051891223, w: 0.9308926}
+      scale: {x: 1.0000019, y: 1.0000043, z: 0.99999696}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: -0.0000000024534028, y: 0.5016231, z: -2.6378935e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.6552078, y: -0.27332488, z: -0.016200867}
+      rotation: {x: -0.0016812105, y: -0.02154271, z: 0.9967359, w: -0.07778657}
+      scale: {x: 1.0000054, y: 1.0000036, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: 0.000000008888334, y: 2.1626751, z: 0.0000000017087128}
+      rotation: {x: 0.032849114, y: -0.00059280405, z: -0.01803353, w: 0.99929744}
+      scale: {x: 1.0000011, y: 1.0000014, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -0.0000000023868865, y: 2.1639502, z: -5.7650645e-10}
+      rotation: {x: 0.39412442, y: -0.07863836, z: 0.03387018, w: 0.91506}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: 0.0000000011125086, y: 1.1878449, z: -0.000000017338776}
+      rotation: {x: 0.34419206, y: -0.13439983, z: 0.049854327, w: 0.92789173}
+      scale: {x: 1.0000039, y: 1.0000058, z: 0.9999977}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -4.529241e-11, y: 0.49255782, z: -9.875064e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

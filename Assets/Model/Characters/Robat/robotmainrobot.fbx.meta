@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 9d222ff5ba4b9274babb8239090c7ce2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: robotmainrobot(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1548446721
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.298108, y: 8.183543, z: 0.28936785}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1761245482
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.5773308, y: 8.647781, z: -0.14722471}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1795490351
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.06637098, y: 8.261953, z: 0.07575985}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1949716560
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.07040751, y: 7.9291506, z: -0.90498465}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1548446721.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.18252426, y: 8.183543, z: 0.28936785}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1761245482.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.4412922, y: 8.647781, z: -0.14722471}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1279638668
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.036882665, y: 6.9299383, z: -0.13927536}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1776263116
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.00071742345, y: 6.5379114, z: 0.5223139}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1689801055
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.3193071, y: 6.232925, z: -1.5491222}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_862093698
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.46430612, y: 6.2428803, z: -1.6036587}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1612373555
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.032321747, y: 7.595729, z: -0.12935016}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.027518801, y: 6.1971326, z: -0.31375912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.0002898574, y: 5.9783053, z: 0.6507113}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.038148366, y: 5.936088, z: -0.10006504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.04712927, y: 6.788275, z: -1.1999891}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.037365936, y: 6.8988314, z: -0.7219279}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder.003
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.0434418, y: 7.8342047, z: -0.13509783}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_33254972
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.27452934, y: 4.994529, z: -0.7738899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_70845517
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.87018836, y: 5.4103713, z: -0.46200928}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_286197549
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.9129426, y: 5.368283, z: -0.45143017}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_365934780
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.3904711, y: 4.8192296, z: 0.60444164}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_568130306
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.33322978, y: 4.98598, z: -0.77451247}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1019842248
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.34723574, y: 4.8122644, z: 0.5980564}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1099418297
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.88927513, y: 5.379799, z: 0.2808972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1384682915
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.0051712, y: 5.794065, z: 0.5365716}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576660463
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.93673325, y: 5.357534, z: 0.23696066}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1618969949
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.014474707, y: 4.880291, z: 0.6122192}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1653339372
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.0057250317, y: 5.510041, z: 0.36256602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_63304473.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.8597392, y: 7.414423, z: -0.13102745}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.020
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.6395497, y: 7.276827, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.021
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847178}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.022
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.628339, y: 7.2450304, z: -0.3922364}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.023
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.608526, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.024
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.0903732}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.020
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.034412, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.021
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.1180615, y: 7.1385913, z: -0.22614226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.022
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.023
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.024
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.541774, y: 7.1705885, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_412865044.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.6203518, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_476104020.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.1944723, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.020
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.03324309}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.021
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.9157853, y: 7.1834226, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.022
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.895904, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.023
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.024
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274077}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_623050474.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.6984327, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1026934678.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.7182999, y: 7.6448603, z: -0.21446082}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1199874235.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.1380224, y: 7.228116, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1373375581.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576540769.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.0812936, y: 7.225107, z: -0.22935763}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1668446638.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.794524, y: 7.2599587, z: -0.23458178}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1793324654.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1909114661.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 2.2770486, y: 7.284147, z: -0.20633686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.025
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.026
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.594639, y: 7.2527494, z: -0.22714669}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.027
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.028
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.5645266, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.029
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.025
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.9642344, y: 7.19575, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.026
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0633388, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.027
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.028
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0308437, y: 7.1323233, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.029
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.432549, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_412865044.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.506558, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_476104020.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.073185, y: 7.254757, z: -0.13980001}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.025
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.7741237, y: 7.2312384, z: -0.43384984}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.026
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.027
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.848809, y: 7.164667, z: -0.053919125}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.028
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.8124733, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.029
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.3033056, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_623050474.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.584639, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1026934678.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.6045053, y: 7.6448603, z: -0.2208597}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1199874235.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.0242286, y: 7.228116, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1373375581.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705039}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576540769.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -2.9675, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1668446638.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.6807306, y: 7.2599587, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1793324654.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -4.7165565, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1909114661.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -2.1632547, y: 7.284147, z: -0.2289838}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_63304473.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.6392535, y: 7.412396, z: -0.17742197}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_92345194
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.6751727, y: 7.7563167, z: -0.10366843}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_591274784
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.9340705, y: 7.253206, z: -0.11035106}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1137901057
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.755821, y: 7.677584, z: -0.077320054}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1465813181
+      parentName: robotmainrobot(Clone)
+      position: {x: 2.130557, y: 7.7473755, z: -0.119728565}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1000039294
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.5468324, y: 6.999473, z: -0.23326938}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.005
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.6395497, y: 7.276827, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.006
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847178}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.007
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.628339, y: 7.2450304, z: -0.3922364}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.008
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.608526, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.009
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.0903732}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.005
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.034412, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.006
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.1180615, y: 7.1385913, z: -0.22614226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.007
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.008
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.009
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.541774, y: 7.1705885, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_412865044.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.6203518, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_476104020.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.1944723, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.005
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.03324309}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.006
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.9157853, y: 7.1834226, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.007
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.895904, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.008
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.009
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274077}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_623050474.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.6984327, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1026934678.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.7182999, y: 7.6448603, z: -0.21446082}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1199874235.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.1380224, y: 7.228116, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1373375581.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576540769.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.0812936, y: 7.225107, z: -0.22935763}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1668446638.004
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.794524, y: 7.2599587, z: -0.23458178}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1793324654.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_92345194.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.6332344, y: 7.7563167, z: -0.12734959}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_591274784.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.892132, y: 7.2525797, z: -0.11978761}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1000039294.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.5048938, y: 7.001381, z: 0.008232143}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1137901057.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.7138822, y: 7.677584, z: -0.15369794}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1465813181.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -2.0886185, y: 7.7473764, z: -0.111289464}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.015
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.016
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.594639, y: 7.2527494, z: -0.22714669}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.017
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.018
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.5645266, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.019
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.015
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.9642344, y: 7.19575, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.016
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0633388, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.017
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.018
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0308437, y: 7.1323233, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.019
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.432549, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_412865044.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.506558, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_476104020.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.073185, y: 7.254757, z: -0.13980001}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.015
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.7741237, y: 7.2312384, z: -0.43384984}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.016
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.017
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.848809, y: 7.164667, z: -0.053919125}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.018
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.8124733, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.019
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.3033056, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_623050474.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.584639, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1026934678.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.6045053, y: 7.6448603, z: -0.2208597}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1199874235.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.0242286, y: 7.228116, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1373375581.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705039}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576540769.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -2.9675, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1668446638.005
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.6807306, y: 7.2599587, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1793324654.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -4.7165565, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_63304473
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.8158977, y: 7.2614822, z: -0.25594035}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_127669984
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.6954243, y: 7.4311132, z: -0.82455593}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.9642344, y: 7.19575, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_276917290
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.8770617, y: 6.7857323, z: -0.3607614}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_356270626
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.692556, y: 7.4523754, z: 0.25900775}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_412865044
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.506558, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_476104020
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.073185, y: 7.254757, z: -0.13980001}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.7741237, y: 7.2312384, z: -0.43384984}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_612439436
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.6257701, y: 7.879238, z: -0.27797452}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_623050474
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.584639, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1026934678
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.6045053, y: 7.6448603, z: -0.2208597}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1199874235
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.0242286, y: 7.228116, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1373375581
+      parentName: robotmainrobot(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705039}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576540769
+      parentName: robotmainrobot(Clone)
+      position: {x: -2.9675, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1668446638
+      parentName: robotmainrobot(Clone)
+      position: {x: -3.6807306, y: 7.2599587, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1793324654
+      parentName: robotmainrobot(Clone)
+      position: {x: -4.7165565, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1909114661
+      parentName: robotmainrobot(Clone)
+      position: {x: -2.1632547, y: 7.284147, z: -0.2289838}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.594639, y: 7.2527494, z: -0.22714669}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0633388, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.001
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.002
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.002
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.002
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.848809, y: 7.164667, z: -0.053919125}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.5645266, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -6.0308437, y: 7.1323233, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.003
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.8124733, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.004
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.004
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.432549, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.004
+      parentName: robotmainrobot(Clone)
+      position: {x: -5.3033056, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.010
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.6395497, y: 7.276827, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.011
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847178}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.012
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.628339, y: 7.2450304, z: -0.3922364}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.013
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.608526, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_37374118.014
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.0903732}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_63304473.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.929692, y: 7.2608685, z: -0.15285844}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_127669984.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.809219, y: 7.490913, z: 0.39411354}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.010
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.034412, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.011
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.1180615, y: 7.1385913, z: -0.22614226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.012
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.013
+      parentName: robotmainrobot(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_183498515.014
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.541774, y: 7.1705885, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_276917290.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.9908557, y: 6.7857323, z: -0.23975901}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_356270626.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.8063494, y: 7.3950343, z: -0.68540955}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_412865044.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.6203518, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_476104020.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.1944723, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.010
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.03324309}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.011
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.9157853, y: 7.1834226, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.012
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.895904, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.013
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_575881556.014
+      parentName: robotmainrobot(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274077}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_612439436.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.7395641, y: 7.877392, z: -0.19766518}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_623050474.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.6984327, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1026934678.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.7182999, y: 7.6448603, z: -0.21446082}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1199874235.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.1380224, y: 7.228116, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1373375581.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1576540769.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.0812936, y: 7.225107, z: -0.22935763}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1668446638.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 3.794524, y: 7.2599587, z: -0.23458178}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1793324654.002
+      parentName: robotmainrobot(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1909114661.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 2.2770486, y: 7.284147, z: -0.20633686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder.002
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.021179873, y: 3.209841, z: -0.4745495}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_240515304
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.7618165, y: 3.8805308, z: -0.23536132}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_559372490
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.75664186, y: 3.9181275, z: -0.24768211}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_824821767
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.3949049, y: 0.7631565, z: 0.22413337}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_909876705
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.3361515, y: 0.778, z: 0.226129}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1094983144
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.3367404, y: 0.38718086, z: 0.27088973}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1457085191
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.3789477, y: 0.37177265, z: 0.26839632}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1711975188
+      parentName: robotmainrobot(Clone)
+      position: {x: -1.156633, y: 1.683298, z: -0.3377568}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1868040267
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.9748429, y: 2.8886318, z: -0.020774068}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1873824444
+      parentName: robotmainrobot(Clone)
+      position: {x: 0.93835753, y: 3.1900737, z: -0.43471056}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_107659434
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.99194074, y: 2.8780196, z: -0.045234226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1339117828
+      parentName: robotmainrobot(Clone)
+      position: {x: -0.91605306, y: 3.1795347, z: -0.46349502}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1711975188.001
+      parentName: robotmainrobot(Clone)
+      position: {x: 1.1635673, y: 1.6406759, z: -0.32589173}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

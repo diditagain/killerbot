@@ -1,0 +1,1454 @@
+fileFormatVersion: 2
+guid: 24ec4cb844ad7274d9df1cf773da8153
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Strafe(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_1548446721
+      parentName: Strafe(Clone)
+      position: {x: 0.29812372, y: 8.183578, z: 0.2609969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1761245482
+      parentName: Strafe(Clone)
+      position: {x: 0.5773308, y: 8.647781, z: -0.14722471}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1795490351
+      parentName: Strafe(Clone)
+      position: {x: 0.06637095, y: 8.261953, z: 0.07575985}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1949716560
+      parentName: Strafe(Clone)
+      position: {x: 0.07157997, y: 7.908084, z: -0.8852899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1548446721.001
+      parentName: Strafe(Clone)
+      position: {x: -0.18250856, y: 8.183578, z: 0.2609969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1761245482.001
+      parentName: Strafe(Clone)
+      position: {x: -0.44129217, y: 8.647781, z: -0.14722471}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1279638668
+      parentName: Strafe(Clone)
+      position: {x: 0.0368827, y: 6.9299383, z: -0.13927536}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 91.67139, y: 100, z: 100}
+    - name: mesh_1776263116
+      parentName: Strafe(Clone)
+      position: {x: -0.0007214919, y: 6.540827, z: -1.9077014}
+      rotation: {x: -0.7070996, y: -0.0031817628, z: 0.0031817623, w: 0.7070997}
+      scale: {x: 116.135155, y: 116.13515, z: 116.135155}
+    - name: mesh_1689801055
+      parentName: Strafe(Clone)
+      position: {x: -0.31930724, y: 6.232924, z: -1.5491221}
+      rotation: {x: -0.70694214, y: -0.015260592, z: 0.015260584, w: 0.706942}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_862093698
+      parentName: Strafe(Clone)
+      position: {x: 0.46430615, y: 6.2428794, z: -1.6036587}
+      rotation: {x: -0.70694214, y: -0.015260592, z: 0.015260584, w: 0.706942}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1612373555
+      parentName: Strafe(Clone)
+      position: {x: 0.032321747, y: 7.5957284, z: -0.12935016}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 257.62915}
+    - name: Cylinder
+      parentName: Strafe(Clone)
+      position: {x: 0.027518617, y: 6.1971326, z: -0.31375912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 103.98583, y: 100, z: 100}
+    - name: Cylinder.001
+      parentName: Strafe(Clone)
+      position: {x: 0.00028987974, y: 5.978305, z: 0.6507113}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube
+      parentName: Strafe(Clone)
+      position: {x: 0.038148373, y: 5.936088, z: -0.10006504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.001
+      parentName: Strafe(Clone)
+      position: {x: 0.047129273, y: 6.7882743, z: -1.1999891}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.002
+      parentName: Strafe(Clone)
+      position: {x: 0.037365966, y: 6.898831, z: -0.7219279}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.003
+      parentName: Strafe(Clone)
+      position: {x: 0.043441787, y: 7.8342047, z: -0.13509783}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_33254972
+      parentName: Strafe(Clone)
+      position: {x: -0.27452934, y: 4.994529, z: -0.7738899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_70845517
+      parentName: Strafe(Clone)
+      position: {x: -0.8701884, y: 5.410371, z: -0.46200928}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_286197549
+      parentName: Strafe(Clone)
+      position: {x: 0.9129426, y: 5.368283, z: -0.45143017}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_365934780
+      parentName: Strafe(Clone)
+      position: {x: 0.3904711, y: 4.8192296, z: 0.60444164}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_568130306
+      parentName: Strafe(Clone)
+      position: {x: 0.3332298, y: 4.98598, z: -0.77451247}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1019842248
+      parentName: Strafe(Clone)
+      position: {x: -0.3472357, y: 4.8122644, z: 0.5980564}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1099418297
+      parentName: Strafe(Clone)
+      position: {x: -0.889275, y: 5.3797984, z: 0.2808972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1384682915
+      parentName: Strafe(Clone)
+      position: {x: 0.0051712464, y: 5.794065, z: 0.5365716}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576660463
+      parentName: Strafe(Clone)
+      position: {x: 0.93673337, y: 5.357534, z: 0.23696065}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1618969949
+      parentName: Strafe(Clone)
+      position: {x: 0.014474704, y: 4.880291, z: 0.6122192}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1653339372
+      parentName: Strafe(Clone)
+      position: {x: -0.005725011, y: 5.510041, z: 0.36256602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473.002
+      parentName: Strafe(Clone)
+      position: {x: 1.8597392, y: 7.414423, z: -0.13102745}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.020
+      parentName: Strafe(Clone)
+      position: {x: 5.6395493, y: 7.2768264, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.021
+      parentName: Strafe(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.022
+      parentName: Strafe(Clone)
+      position: {x: 5.6283383, y: 7.2450304, z: -0.39223638}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.023
+      parentName: Strafe(Clone)
+      position: {x: 5.6085258, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.024
+      parentName: Strafe(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.090373196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.020
+      parentName: Strafe(Clone)
+      position: {x: 6.0344114, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.021
+      parentName: Strafe(Clone)
+      position: {x: 6.1180615, y: 7.1385903, z: -0.22614224}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.022
+      parentName: Strafe(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.023
+      parentName: Strafe(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.024
+      parentName: Strafe(Clone)
+      position: {x: 5.541774, y: 7.170588, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.002
+      parentName: Strafe(Clone)
+      position: {x: 3.620352, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.004
+      parentName: Strafe(Clone)
+      position: {x: 5.194472, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.020
+      parentName: Strafe(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.033243086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.021
+      parentName: Strafe(Clone)
+      position: {x: 5.9157853, y: 7.1834216, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.022
+      parentName: Strafe(Clone)
+      position: {x: 5.8959036, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.023
+      parentName: Strafe(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.024
+      parentName: Strafe(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.002
+      parentName: Strafe(Clone)
+      position: {x: 3.6984332, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.002
+      parentName: Strafe(Clone)
+      position: {x: 3.7183, y: 7.6448603, z: -0.2144608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.002
+      parentName: Strafe(Clone)
+      position: {x: 3.1380224, y: 7.2281156, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.002
+      parentName: Strafe(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.002
+      parentName: Strafe(Clone)
+      position: {x: 3.0812933, y: 7.225107, z: -0.22935762}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.002
+      parentName: Strafe(Clone)
+      position: {x: 3.7945242, y: 7.2599583, z: -0.23458177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.004
+      parentName: Strafe(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661.002
+      parentName: Strafe(Clone)
+      position: {x: 2.2770483, y: 7.284147, z: -0.20633686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.025
+      parentName: Strafe(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.026
+      parentName: Strafe(Clone)
+      position: {x: -5.5946383, y: 7.2527494, z: -0.22714667}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.027
+      parentName: Strafe(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.028
+      parentName: Strafe(Clone)
+      position: {x: -5.564526, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.029
+      parentName: Strafe(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.025
+      parentName: Strafe(Clone)
+      position: {x: -5.9642344, y: 7.1957498, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.026
+      parentName: Strafe(Clone)
+      position: {x: -6.0633383, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.027
+      parentName: Strafe(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.028
+      parentName: Strafe(Clone)
+      position: {x: -6.0308433, y: 7.132323, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.029
+      parentName: Strafe(Clone)
+      position: {x: -5.4325485, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.003
+      parentName: Strafe(Clone)
+      position: {x: -3.5065582, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.005
+      parentName: Strafe(Clone)
+      position: {x: -5.0731845, y: 7.254757, z: -0.1398}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.025
+      parentName: Strafe(Clone)
+      position: {x: -5.774123, y: 7.2312384, z: -0.4338498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.026
+      parentName: Strafe(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.027
+      parentName: Strafe(Clone)
+      position: {x: -5.8488083, y: 7.164667, z: -0.05391912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.028
+      parentName: Strafe(Clone)
+      position: {x: -5.812473, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.029
+      parentName: Strafe(Clone)
+      position: {x: -5.303306, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.003
+      parentName: Strafe(Clone)
+      position: {x: -3.5846388, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.003
+      parentName: Strafe(Clone)
+      position: {x: -3.6045055, y: 7.6448603, z: -0.22085969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.003
+      parentName: Strafe(Clone)
+      position: {x: -3.0242283, y: 7.2281156, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.003
+      parentName: Strafe(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705037}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.003
+      parentName: Strafe(Clone)
+      position: {x: -2.9675002, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.003
+      parentName: Strafe(Clone)
+      position: {x: -3.6807299, y: 7.2599583, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.005
+      parentName: Strafe(Clone)
+      position: {x: -4.716556, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661.003
+      parentName: Strafe(Clone)
+      position: {x: -2.1632545, y: 7.284147, z: -0.2289838}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473.003
+      parentName: Strafe(Clone)
+      position: {x: -1.6392535, y: 7.412396, z: -0.17742197}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_92345194
+      parentName: Strafe(Clone)
+      position: {x: 1.6751727, y: 7.756316, z: -0.10366843}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_591274784
+      parentName: Strafe(Clone)
+      position: {x: 1.9340702, y: 7.2532053, z: -0.11035106}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1137901057
+      parentName: Strafe(Clone)
+      position: {x: 1.7558212, y: 7.677584, z: -0.077320054}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1465813181
+      parentName: Strafe(Clone)
+      position: {x: 2.130557, y: 7.7473755, z: -0.119728565}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1000039294
+      parentName: Strafe(Clone)
+      position: {x: 1.5468322, y: 6.999473, z: -0.23326938}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.005
+      parentName: Strafe(Clone)
+      position: {x: 5.6395493, y: 7.2768264, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.006
+      parentName: Strafe(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.007
+      parentName: Strafe(Clone)
+      position: {x: 5.6283383, y: 7.2450304, z: -0.39223638}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.008
+      parentName: Strafe(Clone)
+      position: {x: 5.6085258, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.009
+      parentName: Strafe(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.090373196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.005
+      parentName: Strafe(Clone)
+      position: {x: 6.0344114, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.006
+      parentName: Strafe(Clone)
+      position: {x: 6.1180615, y: 7.1385903, z: -0.22614224}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.007
+      parentName: Strafe(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.008
+      parentName: Strafe(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.009
+      parentName: Strafe(Clone)
+      position: {x: 5.541774, y: 7.170588, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.004
+      parentName: Strafe(Clone)
+      position: {x: 3.620352, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.001
+      parentName: Strafe(Clone)
+      position: {x: 5.194472, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.005
+      parentName: Strafe(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.033243086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.006
+      parentName: Strafe(Clone)
+      position: {x: 5.9157853, y: 7.1834216, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.007
+      parentName: Strafe(Clone)
+      position: {x: 5.8959036, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.008
+      parentName: Strafe(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.009
+      parentName: Strafe(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.004
+      parentName: Strafe(Clone)
+      position: {x: 3.6984332, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.004
+      parentName: Strafe(Clone)
+      position: {x: 3.7183, y: 7.6448603, z: -0.2144608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.004
+      parentName: Strafe(Clone)
+      position: {x: 3.1380224, y: 7.2281156, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.004
+      parentName: Strafe(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.004
+      parentName: Strafe(Clone)
+      position: {x: 3.0812933, y: 7.225107, z: -0.22935762}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.004
+      parentName: Strafe(Clone)
+      position: {x: 3.7945242, y: 7.2599583, z: -0.23458177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.001
+      parentName: Strafe(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_92345194.001
+      parentName: Strafe(Clone)
+      position: {x: -1.633234, y: 7.756316, z: -0.12734959}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_591274784.001
+      parentName: Strafe(Clone)
+      position: {x: -1.892132, y: 7.2525797, z: -0.1197876}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1000039294.001
+      parentName: Strafe(Clone)
+      position: {x: -1.5048939, y: 7.0013804, z: 0.008232143}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1137901057.001
+      parentName: Strafe(Clone)
+      position: {x: -1.7138822, y: 7.677584, z: -0.15369794}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1465813181.001
+      parentName: Strafe(Clone)
+      position: {x: -2.0886185, y: 7.7473764, z: -0.111289464}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.015
+      parentName: Strafe(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.016
+      parentName: Strafe(Clone)
+      position: {x: -5.5946383, y: 7.2527494, z: -0.22714667}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.017
+      parentName: Strafe(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.018
+      parentName: Strafe(Clone)
+      position: {x: -5.564526, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.019
+      parentName: Strafe(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.015
+      parentName: Strafe(Clone)
+      position: {x: -5.9642344, y: 7.1957498, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.016
+      parentName: Strafe(Clone)
+      position: {x: -6.0633383, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.017
+      parentName: Strafe(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.018
+      parentName: Strafe(Clone)
+      position: {x: -6.0308433, y: 7.132323, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.019
+      parentName: Strafe(Clone)
+      position: {x: -5.4325485, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.005
+      parentName: Strafe(Clone)
+      position: {x: -3.5065582, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.003
+      parentName: Strafe(Clone)
+      position: {x: -5.0731845, y: 7.254757, z: -0.1398}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.015
+      parentName: Strafe(Clone)
+      position: {x: -5.774123, y: 7.2312384, z: -0.4338498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.016
+      parentName: Strafe(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.017
+      parentName: Strafe(Clone)
+      position: {x: -5.8488083, y: 7.164667, z: -0.05391912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.018
+      parentName: Strafe(Clone)
+      position: {x: -5.812473, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.019
+      parentName: Strafe(Clone)
+      position: {x: -5.303306, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.005
+      parentName: Strafe(Clone)
+      position: {x: -3.5846388, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.005
+      parentName: Strafe(Clone)
+      position: {x: -3.6045055, y: 7.6448603, z: -0.22085969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.005
+      parentName: Strafe(Clone)
+      position: {x: -3.0242283, y: 7.2281156, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.005
+      parentName: Strafe(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705037}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.005
+      parentName: Strafe(Clone)
+      position: {x: -2.9675002, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.005
+      parentName: Strafe(Clone)
+      position: {x: -3.6807299, y: 7.2599583, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.003
+      parentName: Strafe(Clone)
+      position: {x: -4.716556, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118
+      parentName: Strafe(Clone)
+      position: {x: -5.5582643, y: 7.2733765, z: -0.42357805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473
+      parentName: Strafe(Clone)
+      position: {x: -1.8158975, y: 7.261482, z: -0.25594035}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_127669984
+      parentName: Strafe(Clone)
+      position: {x: -1.6954243, y: 7.4311132, z: -0.82455593}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515
+      parentName: Strafe(Clone)
+      position: {x: -5.9642344, y: 7.1957498, z: -0.4430808}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_276917290
+      parentName: Strafe(Clone)
+      position: {x: -1.8770618, y: 6.7857323, z: -0.3607614}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_356270626
+      parentName: Strafe(Clone)
+      position: {x: -1.6925558, y: 7.4523754, z: 0.25900775}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044
+      parentName: Strafe(Clone)
+      position: {x: -3.5065582, y: 7.2298026, z: 0.25041676}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020
+      parentName: Strafe(Clone)
+      position: {x: -5.0731845, y: 7.254757, z: -0.1398}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556
+      parentName: Strafe(Clone)
+      position: {x: -5.774123, y: 7.2312384, z: -0.4338498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_612439436
+      parentName: Strafe(Clone)
+      position: {x: -1.62577, y: 7.879238, z: -0.27797452}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474
+      parentName: Strafe(Clone)
+      position: {x: -3.5846388, y: 7.2301645, z: -0.65719044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678
+      parentName: Strafe(Clone)
+      position: {x: -3.6045055, y: 7.6448603, z: -0.22085969}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235
+      parentName: Strafe(Clone)
+      position: {x: -3.0242283, y: 7.2281156, z: -0.25442758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581
+      parentName: Strafe(Clone)
+      position: {x: -4.072379, y: 7.2523355, z: -0.18705037}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769
+      parentName: Strafe(Clone)
+      position: {x: -2.9675002, y: 7.225107, z: -0.20596288}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638
+      parentName: Strafe(Clone)
+      position: {x: -3.6807299, y: 7.2599583, z: -0.20073867}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654
+      parentName: Strafe(Clone)
+      position: {x: -4.716556, y: 7.105526, z: -0.16812225}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661
+      parentName: Strafe(Clone)
+      position: {x: -2.1632545, y: 7.284147, z: -0.2289838}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.001
+      parentName: Strafe(Clone)
+      position: {x: -5.5946383, y: 7.2527494, z: -0.22714667}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.001
+      parentName: Strafe(Clone)
+      position: {x: -6.0633383, y: 7.1674094, z: -0.24857537}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.001
+      parentName: Strafe(Clone)
+      position: {x: -5.8554883, y: 7.204342, z: -0.23896894}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.002
+      parentName: Strafe(Clone)
+      position: {x: -5.572508, y: 7.2393765, z: -0.042448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.002
+      parentName: Strafe(Clone)
+      position: {x: -6.0921507, y: 7.125035, z: -0.064227805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.002
+      parentName: Strafe(Clone)
+      position: {x: -5.8488083, y: 7.164667, z: -0.05391912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.003
+      parentName: Strafe(Clone)
+      position: {x: -5.564526, y: 7.233571, z: 0.1475749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.003
+      parentName: Strafe(Clone)
+      position: {x: -6.0308433, y: 7.132323, z: 0.12579507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.003
+      parentName: Strafe(Clone)
+      position: {x: -5.812473, y: 7.1719556, z: 0.13610381}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.004
+      parentName: Strafe(Clone)
+      position: {x: -5.1447864, y: 7.2364087, z: 0.23010257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.004
+      parentName: Strafe(Clone)
+      position: {x: -5.4325485, y: 7.1567297, z: 0.4292625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.004
+      parentName: Strafe(Clone)
+      position: {x: -5.303306, y: 7.1971374, z: 0.33995044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.010
+      parentName: Strafe(Clone)
+      position: {x: 5.6395493, y: 7.2768264, z: -0.030092223}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.011
+      parentName: Strafe(Clone)
+      position: {x: 5.662044, y: 7.2561307, z: -0.21847177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.012
+      parentName: Strafe(Clone)
+      position: {x: 5.6283383, y: 7.2450304, z: -0.39223638}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.013
+      parentName: Strafe(Clone)
+      position: {x: 5.6085258, y: 7.2404594, z: -0.571893}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_37374118.014
+      parentName: Strafe(Clone)
+      position: {x: 5.2746606, y: 7.2591834, z: 0.090373196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_63304473.001
+      parentName: Strafe(Clone)
+      position: {x: 1.9296919, y: 7.2608685, z: -0.15285844}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_127669984.001
+      parentName: Strafe(Clone)
+      position: {x: 1.8092191, y: 7.490913, z: 0.39411354}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.010
+      parentName: Strafe(Clone)
+      position: {x: 6.0344114, y: 7.175178, z: -0.035842992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.011
+      parentName: Strafe(Clone)
+      position: {x: 6.1180615, y: 7.1385903, z: -0.22614224}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.012
+      parentName: Strafe(Clone)
+      position: {x: 6.1328387, y: 7.112078, z: -0.40261558}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.013
+      parentName: Strafe(Clone)
+      position: {x: 6.0614586, y: 7.122434, z: -0.57908815}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_183498515.014
+      parentName: Strafe(Clone)
+      position: {x: 5.541774, y: 7.170588, z: 0.29442602}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_276917290.001
+      parentName: Strafe(Clone)
+      position: {x: 1.9908558, y: 6.7857323, z: -0.239759}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_356270626.001
+      parentName: Strafe(Clone)
+      position: {x: 1.8063498, y: 7.395034, z: -0.68540955}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_412865044.001
+      parentName: Strafe(Clone)
+      position: {x: 3.620352, y: 7.2298026, z: -0.6857373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_476104020.002
+      parentName: Strafe(Clone)
+      position: {x: 5.194472, y: 7.27562, z: -0.2827174}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.010
+      parentName: Strafe(Clone)
+      position: {x: 5.849455, y: 7.217805, z: -0.033243086}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.011
+      parentName: Strafe(Clone)
+      position: {x: 5.9157853, y: 7.1834216, z: -0.22283909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.012
+      parentName: Strafe(Clone)
+      position: {x: 5.8959036, y: 7.16114, z: -0.39785895}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.013
+      parentName: Strafe(Clone)
+      position: {x: 5.8489685, y: 7.170324, z: -0.57582253}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_575881556.014
+      parentName: Strafe(Clone)
+      position: {x: 5.4221587, y: 7.214757, z: 0.20274076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_612439436.001
+      parentName: Strafe(Clone)
+      position: {x: 1.7395638, y: 7.877392, z: -0.19766517}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_623050474.001
+      parentName: Strafe(Clone)
+      position: {x: 3.6984332, y: 7.2301645, z: 0.22186977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1026934678.001
+      parentName: Strafe(Clone)
+      position: {x: 3.7183, y: 7.6448603, z: -0.2144608}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1199874235.001
+      parentName: Strafe(Clone)
+      position: {x: 3.1380224, y: 7.2281156, z: -0.1808929}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1373375581.001
+      parentName: Strafe(Clone)
+      position: {x: 4.1861734, y: 7.2523355, z: -0.2482702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1576540769.001
+      parentName: Strafe(Clone)
+      position: {x: 3.0812933, y: 7.225107, z: -0.22935762}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1668446638.001
+      parentName: Strafe(Clone)
+      position: {x: 3.7945242, y: 7.2599583, z: -0.23458177}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1793324654.002
+      parentName: Strafe(Clone)
+      position: {x: 4.818157, y: 7.168325, z: -0.24503496}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1909114661.001
+      parentName: Strafe(Clone)
+      position: {x: 2.2770483, y: 7.284147, z: -0.20633686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.002
+      parentName: Strafe(Clone)
+      position: {x: -0.021180345, y: 3.209841, z: -0.47454947}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_240515304
+      parentName: Strafe(Clone)
+      position: {x: 0.7618166, y: 3.8805306, z: -0.23536132}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_559372490
+      parentName: Strafe(Clone)
+      position: {x: -0.7566418, y: 3.9181273, z: -0.24768211}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_824821767
+      parentName: Strafe(Clone)
+      position: {x: -1.3949049, y: 0.7631565, z: 0.22413337}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_909876705
+      parentName: Strafe(Clone)
+      position: {x: 1.3361514, y: 0.778, z: 0.226129}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1094983144
+      parentName: Strafe(Clone)
+      position: {x: 1.3367404, y: 0.38718086, z: 0.27088973}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1457085191
+      parentName: Strafe(Clone)
+      position: {x: -1.3789479, y: 0.37177265, z: 0.26839632}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1711975188
+      parentName: Strafe(Clone)
+      position: {x: -1.1566331, y: 1.683298, z: -0.3377568}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1868040267
+      parentName: Strafe(Clone)
+      position: {x: 0.9748427, y: 2.8886318, z: -0.020774068}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1873824444
+      parentName: Strafe(Clone)
+      position: {x: 0.93835723, y: 3.1900737, z: -0.43471056}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_107659434
+      parentName: Strafe(Clone)
+      position: {x: -0.9919408, y: 2.8780196, z: -0.045234226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1339117828
+      parentName: Strafe(Clone)
+      position: {x: -0.9160531, y: 3.1795344, z: -0.46349502}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mesh_1711975188.001
+      parentName: Strafe(Clone)
+      position: {x: 1.1635674, y: 1.6406765, z: -0.32589164}
+      rotation: {x: -0.7069135, y: -0.051064167, z: 0.13749935, w: 0.69192475}
+      scale: {x: 100, y: 100.00001, z: 100}
+    - name: mixamorig:Hips
+      parentName: Strafe(Clone)
+      position: {x: -0.0016422224, y: 5.481602, z: 0.031040251}
+      rotation: {x: 0.000000022351731, y: -0.000000044703484, z: -0.0000000018626388, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.49137756, z: 0.008975659}
+      rotation: {x: 0.009132033, y: -6.804157e-11, z: -0.00000000745027, w: 0.99995834}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.5733689, z: 7.4554654e-11}
+      rotation: {x: -0.0000000074505797, y: 0.000000029729305, z: -0.000000004268967, w: 1}
+      scale: {x: 1, y: 1.0000008, z: 1.0000001}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.6552795, z: 2.8038584e-11}
+      rotation: {x: 0.0000000046566115, y: 0.000000015255875, z: 0.00000001928237, w: 1}
+      scale: {x: 1.0000002, y: 0.99999934, z: 0.9999999}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.7371884, z: -5.218686e-10}
+      rotation: {x: -0.009132045, y: -1.6158808e-10, z: -0.000000017694392, w: 0.99995834}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.22574462, z: 0.022341747}
+      rotation: {x: 0.00000002235174, y: 9.3132196e-10, z: 0.000000003026797, w: 1}
+      scale: {x: 0.9999999, y: 0.9999996, z: 0.9999999}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.66184205, z: 0.06550193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.4272607, y: 0.5839657, z: 0.019346854}
+      rotation: {x: 0.58817977, y: 0.40182552, z: -0.5622747, w: 0.42003343}
+      scale: {x: 1.0000062, y: 1.0000049, z: 1.0000049}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -0.000000001087511, y: 0.91134834, z: -0.0000000051467453}
+      rotation: {x: -0.14776692, y: 0.011269015, z: -0.048067678, w: 0.98778915}
+      scale: {x: 1.0000148, y: 1.0000143, z: 1.0000161}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -0.0000000026748557, y: 1.7315214, z: -0.0000000027114468}
+      rotation: {x: -0.005856693, y: -0.00015762448, z: 0.02690342, w: 0.999621}
+      scale: {x: 1.000017, y: 1.00002, z: 1.00002}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0.0000000012757019, y: 1.7493483, z: 0.0000000021649338}
+      rotation: {x: 0.027780643, y: 0.04685131, z: 0.07938101, w: -0.9953551}
+      scale: {x: 1.0000029, y: 1.0000042, z: 1.0000049}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -0.17248176, y: 0.63666797, z: -0.020001423}
+      rotation: {x: 0.04672859, y: 0.0061981, z: 0.03792771, w: 0.9981682}
+      scale: {x: 1.0000061, y: 1.0000073, z: 1.0000056}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: -0.0003621868, y: 0.29070687, z: 3.5217795e-10}
+      rotation: {x: 0.038386613, y: 0.000000059604645, z: 0.000000059604645, w: 0.99926305}
+      scale: {x: 1.0000052, y: 1.0000082, z: 1.0000021}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: -0.0014710532, y: 0.27956557, z: 6.3298444e-10}
+      rotation: {x: -0.037394993, y: -0.00013576362, z: 0.0047634635, w: 0.9992892}
+      scale: {x: 1.0000036, y: 1.000002, z: 1.0000042}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: 0.0018332418, y: 0.21776189, z: -4.8434003e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle1
+      parentName: mixamorig:RightHand
+      position: {x: 0.00401256, y: 0.665889, z: -0.029158084}
+      rotation: {x: 0.040474053, y: 0.010692994, z: 0.044226572, w: 0.99814403}
+      scale: {x: 1.0000054, y: 1.0000106, z: 1.0000043}
+    - name: mixamorig:RightHandMiddle2
+      parentName: mixamorig:RightHandMiddle1
+      position: {x: -0.00026054392, y: 0.2885243, z: 0.0000000016413867}
+      rotation: {x: 0.0184015, y: -0.000000042840828, z: -0.00000009569337, w: 0.99983066}
+      scale: {x: 1.000002, y: 1.0000026, z: 1.0000023}
+    - name: mixamorig:RightHandMiddle3
+      parentName: mixamorig:RightHandMiddle2
+      position: {x: -0.001153821, y: 0.3061021, z: 0.000000007759237}
+      rotation: {x: -0.040116563, y: -0.000029733463, z: 0.001983782, w: 0.9991931}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.99999994}
+    - name: mixamorig:RightHandMiddle4
+      parentName: mixamorig:RightHandMiddle3
+      position: {x: 0.0014143669, y: 0.23977838, z: -0.0000000020086646}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing1
+      parentName: mixamorig:RightHand
+      position: {x: 0.16846922, y: 0.6788661, z: -0.019298024}
+      rotation: {x: 0.047602445, y: 0.005948444, z: 0.0391047, w: 0.9980829}
+      scale: {x: 1.0000094, y: 1.0000094, z: 1.000007}
+    - name: mixamorig:RightHandRing2
+      parentName: mixamorig:RightHandRing1
+      position: {x: 0.00087872683, y: 0.28721055, z: 5.37907e-10}
+      rotation: {x: 0.040645845, y: -0.0000022021115, z: -0.00096494134, w: 0.9991732}
+      scale: {x: 1.0000011, y: 1.000002, z: 1.0000013}
+    - name: mixamorig:RightHandRing3
+      parentName: mixamorig:RightHandRing2
+      position: {x: -0.0008877467, y: 0.26804325, z: 0.0000000047189848}
+      rotation: {x: -0.030685525, y: 0.000000030273537, z: -0.000000016214718, w: 0.9995291}
+      scale: {x: 1.0000014, y: 1.0000025, z: 1.0000021}
+    - name: mixamorig:RightHandRing4
+      parentName: mixamorig:RightHandRing3
+      position: {x: 0.000009023912, y: 0.21665478, z: 0.0000000015631804}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandThumb1
+      parentName: mixamorig:RightHand
+      position: {x: -0.18955694, y: 0.35783336, z: 0.006220675}
+      rotation: {x: -0.0028975504, y: 0.0010185573, z: -0.21735913, w: -0.9760869}
+      scale: {x: 1.0000073, y: 1.0000101, z: 1.0000103}
+    - name: mixamorig:RightHandThumb2
+      parentName: mixamorig:RightHandThumb1
+      position: {x: -0.058417954, y: 0.31868035, z: -4.427079e-10}
+      rotation: {x: 0.01190638, y: -0.0014750056, z: 0.10825378, w: 0.9940509}
+      scale: {x: 1.0000049, y: 1.0000052, z: 1.0000066}
+    - name: mixamorig:RightHandThumb3
+      parentName: mixamorig:RightHandThumb2
+      position: {x: 0.035548568, y: 0.34145698, z: -0.0000000023070197}
+      rotation: {x: 0.038379755, y: 0.0059872186, z: -0.011171296, w: 0.9991829}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000002}
+    - name: mixamorig:RightHandThumb4
+      parentName: mixamorig:RightHandThumb3
+      position: {x: 0.022869391, y: 0.3299382, z: -0.000000011222779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.4272607, y: 0.5833614, z: -0.013738191}
+      rotation: {x: 0.5663376, y: -0.41716653, z: 0.5848361, w: 0.40398097}
+      scale: {x: 1.0000019, y: 1.0000049, z: 1.0000032}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -0.0000000014885151, y: 0.9113482, z: -0.000000005976791}
+      rotation: {x: -0.14410536, y: 0.0031402404, z: -0.021558104, w: 0.98932254}
+      scale: {x: 1.0000076, y: 1.000007, z: 1.0000064}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -3.042573e-10, y: 1.7265426, z: 0.0000000028779321}
+      rotation: {x: -0.004356324, y: 0.000009571434, z: -0.002197495, w: 0.9999881}
+      scale: {x: 1.0000033, y: 1.0000057, z: 1.0000029}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -2.2175636e-10, y: 1.7490807, z: -9.00834e-10}
+      rotation: {x: 0.030135404, y: 0.07020571, z: -0.052855916, w: -0.9956753}
+      scale: {x: 1.0000057, y: 1.0000079, z: 1.000009}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.18323901, y: 0.6110985, z: -0.014570059}
+      rotation: {x: -0.056875005, y: 0.0012082458, z: 0.021204978, w: -0.9981554}
+      scale: {x: 1.0000024, y: 1.0000046, z: 1.0000019}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: -0.0002616427, y: 0.31845373, z: -0.000000002774617}
+      rotation: {x: 0.039944384, y: -0.000007917402, z: 0.00026966952, w: 0.9992019}
+      scale: {x: 1.0000036, y: 1.0000033, z: 1.0000019}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.00010477074, y: 0.29308304, z: -0.0000000035803112}
+      rotation: {x: 0.038587254, y: 0.000000007139664, z: -0.00000009015407, w: 0.99925524}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.00015687151, y: 0.251933, z: -0.0000000028003602}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.0057704286, y: 0.599125, z: -0.019743077}
+      rotation: {x: -0.0647392, y: 0.0015525365, z: 0.01725156, w: -0.9977519}
+      scale: {x: 1.000006, y: 1.0000044, z: 1.0000049}
+    - name: mixamorig:LeftHandMiddle2
+      parentName: mixamorig:LeftHandMiddle1
+      position: {x: 0.0000100061525, y: 0.3097314, z: -0.00000000545784}
+      rotation: {x: 0.013184145, y: -0.000000029802322, z: -0.000000029802322, w: 0.9999131}
+      scale: {x: 1.0000045, y: 1.0000061, z: 1.0000044}
+    - name: mixamorig:LeftHandMiddle3
+      parentName: mixamorig:LeftHandMiddle2
+      position: {x: 0.000101267826, y: 0.29275107, z: -9.510677e-10}
+      rotation: {x: -0.041341394, y: 0.00000028329598, z: -0.00003712032, w: 0.9991451}
+      scale: {x: 1.0000037, y: 1.000001, z: 1.0000045}
+    - name: mixamorig:LeftHandMiddle4
+      parentName: mixamorig:LeftHandMiddle3
+      position: {x: -0.00011127287, y: 0.23898816, z: -0.000000001577439}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandRing1
+      parentName: mixamorig:LeftHand
+      position: {x: -0.18900946, y: 0.6351884, z: -0.025396017}
+      rotation: {x: -0.06377431, y: 0.0012497004, z: 0.0096406005, w: -0.99791706}
+      scale: {x: 1.0000029, y: 1.000001, z: 1.0000039}
+    - name: mixamorig:LeftHandRing2
+      parentName: mixamorig:LeftHandRing1
+      position: {x: 0.000058583766, y: 0.2681566, z: 0.0000000018408377}
+      rotation: {x: -0.02355467, y: 0.0000001192093, z: -0, w: 0.9997226}
+      scale: {x: 1.0000035, y: 1.0000023, z: 1.0000038}
+    - name: mixamorig:LeftHandRing3
+      parentName: mixamorig:LeftHandRing2
+      position: {x: -0.0000012369238, y: 0.24597444, z: 0.0000000012566886}
+      rotation: {x: -0.027497873, y: -0.00000011920929, z: -0.000000029802322, w: 0.99962187}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000014}
+    - name: mixamorig:LeftHandRing4
+      parentName: mixamorig:LeftHandRing3
+      position: {x: -0.000057341167, y: 0.2082554, z: -0.0000000016103422}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.17341134, y: 0.3420207, z: -0.01363031}
+      rotation: {x: 0.042400267, y: -0.009452222, z: 0.20212802, w: -0.97839516}
+      scale: {x: 1.0000035, y: 1.0000011, z: 1.0000033}
+    - name: mixamorig:LeftHandThumb2
+      parentName: mixamorig:LeftHandThumb1
+      position: {x: 0.07031784, y: 0.29880816, z: 0.0000000014107797}
+      rotation: {x: 0.019455563, y: 0.006066537, z: -0.09545274, w: 0.9952254}
+      scale: {x: 1.0000086, y: 1.0000056, z: 1.000008}
+    - name: mixamorig:LeftHandThumb3
+      parentName: mixamorig:LeftHandThumb2
+      position: {x: -0.008818911, y: 0.39917406, z: 0.0000000034517973}
+      rotation: {x: 0.030335477, y: -0.0052117757, z: -0.04552797, w: 0.9984888}
+      scale: {x: 0.999996, y: 1.0000017, z: 0.99999875}
+    - name: mixamorig:LeftHandThumb4
+      parentName: mixamorig:LeftHandThumb3
+      position: {x: -0.061498936, y: 0.3791553, z: -0.000000012473663}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.6552078, y: -0.27332488, z: -0.0395092}
+      rotation: {x: 0.00088944886, y: -0.011389473, z: 0.99689955, w: 0.077851094}
+      scale: {x: 0.99999785, y: 1.0000006, z: 1.0000001}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 0.000000010853256, y: 2.1612546, z: -0.0000000021842967}
+      rotation: {x: 0.0028007356, y: 0.000050980714, z: 0.01821208, w: 0.9998303}
+      scale: {x: 1.000003, y: 1.0000033, z: 1.0000001}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: 0.000000004300017, y: 2.163744, z: 0.0000000015662837}
+      rotation: {x: 0.42580274, y: 0.06943625, z: -0.032794703, w: 0.9015515}
+      scale: {x: 0.99999875, y: 0.9999996, z: 0.9999996}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: 0.0000000022306026, y: 1.2297274, z: 0.0000000021463016}
+      rotation: {x: 0.3307894, y: 0.14602989, z: -0.051891293, w: 0.9308926}
+      scale: {x: 1.0000013, y: 1.000004, z: 0.9999967}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: -0.0000000024534028, y: 0.5016231, z: -2.6378935e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.6552078, y: -0.27332488, z: -0.016200867}
+      rotation: {x: -0.0016811896, y: -0.021542735, z: 0.9967359, w: -0.07778657}
+      scale: {x: 1.0000049, y: 1.0000043, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: 0.000000008888334, y: 2.1626751, z: 0.0000000017087128}
+      rotation: {x: 0.032849155, y: -0.00059284386, z: -0.018033564, w: 0.99929744}
+      scale: {x: 1.0000012, y: 1.0000011, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -0.0000000023868865, y: 2.1639502, z: -5.7650645e-10}
+      rotation: {x: 0.3941244, y: -0.07863835, z: 0.033870224, w: 0.91506}
+      scale: {x: 1.0000012, y: 1.0000017, z: 0.9999997}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: 0.0000000011125086, y: 1.1878449, z: -0.000000017338776}
+      rotation: {x: 0.34419206, y: -0.13439977, z: 0.04985426, w: 0.92789173}
+      scale: {x: 1.0000032, y: 1.000006, z: 0.9999967}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -4.529241e-11, y: 0.49255782, z: -9.875064e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
